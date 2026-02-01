@@ -1,4 +1,4 @@
-# Rail fence Cypher C
+# Rail fence Cypher in C
 (Project in active development)
 
 ---
